@@ -107,7 +107,7 @@ The AI Recap Agent is deployed using a **cloud-native, microservices-based archi
 
 #### 2.2.5 System Overview
 
-![image](https://i.postimg.cc/4N6R86M0/recap-agent-arc-Page-1-drawio-1.png)
+![image](/docs/flow-diagram.jpg)
 
 ---
 
